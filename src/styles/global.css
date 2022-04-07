@@ -76,4 +76,5 @@ main li a {
     font-size: 0.75rem;
     color: inherit;
     z-index: 100;
+    text-shadow: 0px 0px 5px #EADDCA;
 }
