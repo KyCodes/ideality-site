@@ -13,7 +13,8 @@
     position: absolute;
     top: 15vh;
     left: 5vw;
-    width: 350px;
+    min-width: 350px;
+    max-width: 350px;
     animation: hoverLeft 5s ease-in-out infinite;
     z-index: -10;
 }
@@ -22,14 +23,16 @@
     position: absolute;
     top: 50vh;
     right: 10vw;
-    width: 75px;
+    min-width: 75px;
+    max-width: 75px;
     animation: hoverRight 5s ease-in-out infinite;
     z-index: -10;
 }
 
 .img__habit {
     position: absolute;
-    width: 125px;
+    min-width: 125px;
+    max-width: 125px;
     top: 75vh;
     left: 10vw;
     animation: hoverLeft 5s ease-in-out infinite;
