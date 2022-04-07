@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-default-tsx",
+    "path": "/updates",
+    "result": {"pageContext":{"title":"Updates","content":"<ul class=\"wp-block-latest-posts__list has-dates wp-block-latest-posts\"><li><a href=\"/version-0-0/\">Version 0.0</a><time datetime=\"2022-04-07T06:54:49+00:00\" class=\"wp-block-latest-posts__post-date\">April 7, 2022</time><div class=\"wp-block-latest-posts__post-excerpt\">This is where updates and fixes will appear in the future. Check back soon!</div></li>\n</ul>"}},
+    "staticQueryHashes": ["2247317886"]}

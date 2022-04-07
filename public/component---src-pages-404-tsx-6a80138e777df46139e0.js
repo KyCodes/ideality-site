@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkideality_site=self.webpackChunkideality_site||[]).push([[218],{3727:function(e,t,i){i.r(t),i.d(t,{default:function(){return r}});var n=i(7294),u=i(5311);function r(){return n.createElement(u.Z,{title:"404"})}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-6a80138e777df46139e0.js.map

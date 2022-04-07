@@ -2,8 +2,7 @@ import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: ``,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://ideality.dev`
   },
   plugins: [{
     resolve: 'gatsby-source-wordpress',
@@ -13,7 +12,7 @@ const config: GatsbyConfig = {
   }, "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
     resolve: 'gatsby-plugin-manifest',
     options: {
-      "icon": "src/images/icon.png"
+      "icon": "src/images/ideality-logo.png"
     }
   }, "gatsby-plugin-mdx", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
     resolve: 'gatsby-source-filesystem',

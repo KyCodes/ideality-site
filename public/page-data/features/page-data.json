@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-default-tsx",
+    "path": "/features",
+    "result": {"pageContext":{"title":"Features","content":"\n<p><strong><em>[features]</em></strong></p>\n"}},
+    "staticQueryHashes": ["2247317886"]}
