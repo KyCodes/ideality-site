@@ -54,12 +54,12 @@
 
 @keyframes hoverRight {
     0% {
-        transform: rotate(10deg) translateY(-10px);
-    }
-    50% {
         transform: rotate(10deg) translateY(10px);
     }
-    100% {
+    50% {
         transform: rotate(10deg) translateY(-10px);
+    }
+    100% {
+        transform: rotate(10deg) translateY(10px);
     }
 }
