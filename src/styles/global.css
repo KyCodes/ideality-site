@@ -11,7 +11,6 @@ html, body {
     background-color: #EADDCA;
     font-family: 'Rubik', sans-serif;
     color: #424949;
-    overflow-x: hidden;
 }
 
 html, 
@@ -32,12 +31,13 @@ body {
     margin-top: 125px;
 }
 
-.tag {
-    position: absolute;
-    bottom: 0px;
-    margin-bottom: 1rem;
-    font-size: 0.75rem;
-    color: inherit;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Crimson Pro', serif;
 }
 
 main {
@@ -52,7 +52,6 @@ main * {
 }
 
 main h1 {
-    font-family: 'Crimson Pro', serif;
     font-size: 4rem;
     margin-bottom: 3rem;
     line-height: 4rem;
@@ -67,5 +66,13 @@ main li {
 main li a {
     font-family: 'Crimson Pro', serif;
     font-size: 2rem;
+    color: inherit;
+}
+
+.tag {
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 1rem;
+    font-size: 0.75rem;
     color: inherit;
 }

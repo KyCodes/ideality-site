@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkideality_site=self.webpackChunkideality_site||[]).push([[218],{3727:function(e,t,n){n.r(t),n.d(t,{default:function(){return u}});var i=n(7294),r=n(5311);function u(){return i.createElement(r.Z,{title:"404"},i.createElement("h1",{style:{textAlign:"center"}},"Page not found...Sorry :("))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-44cfbe35e55725ee6824.js.map
