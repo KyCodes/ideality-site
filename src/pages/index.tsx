@@ -19,7 +19,7 @@ export default function Home() {
         <h1>The ideal way to plan</h1>
         <p>Coming to iOS and Android in Spring 2022</p>
       </div>
-      <a href='https://ky.codes/' className='tag'>Designed and Developed by KyCodes LLC</a>
+      <a href='https://ky.codes/' className='tag'>Designed and developed by KyCodes LLC</a>
     </Layout>
   );
 }
